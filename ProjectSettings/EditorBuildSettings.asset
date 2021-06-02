@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/introduccion.unity
     guid: 900d1d80dd0b0f8468c0b830eff5e2be
+  - enabled: 1
+    path: Assets/PLATAFORMERO ESCENAS/Introduccion.unity
+    guid: 01c2d9ca0724efa45a4b89028fd5594c
   m_configObjects: {}
