@@ -384,18 +384,18 @@ MonoBehaviour:
   facingRightBulletSpawnPoint: {fileID: 4929711121330312}
   bulletPool: {fileID: 114680495344679792}
   cameraFollowTarget: {fileID: 4530920980854552}
-  maxSpeed: 7
-  groundAcceleration: 100
+  maxSpeed: 6.5
+  groundAcceleration: 60
   groundDeceleration: 100
-  pushingSpeedProportion: 0.5
+  pushingSpeedProportion: 0.32
   airborneAccelProportion: 1
   airborneDecelProportion: 0.5
-  gravity: 38
-  jumpSpeed: 16.5
+  gravity: 60
+  jumpSpeed: 16
   jumpAbortSpeedReduction: 100
   hurtJumpAngle: 45
   hurtJumpSpeed: 8
-  flickeringDuration: 0.05
+  flickeringDuration: 0.09
   meleeAttackDashSpeed: 15
   dashWhileAirborne: 1
   footstepAudioPlayer: {fileID: 114293955134965878}
