@@ -57,9 +57,18 @@ EditorBuildSettings:
     path: 
     guid: bf2472a1f11dd9242b2a45288098d18c
   - enabled: 1
-    path: Assets/introduccion.unity
+    path: 
     guid: 900d1d80dd0b0f8468c0b830eff5e2be
   - enabled: 1
     path: Assets/PLATAFORMERO ESCENAS/Introduccion.unity
     guid: 01c2d9ca0724efa45a4b89028fd5594c
+  - enabled: 1
+    path: Assets/PLATAFORMERO ESCENAS/Introduccion.unity
+    guid: 2c75a2ddd3109574f933f95b12fe1752
+  - enabled: 1
+    path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
+    guid: fecc9f4070ce5d34a83853914b37fc0e
+  - enabled: 1
+    path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
+    guid: 68916d233a7f3e74ea036f972f6ecab9
   m_configObjects: {}
