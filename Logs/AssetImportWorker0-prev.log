@@ -1,672 +1,84 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'es' Physical Memory: 16326 MB
+OS: 'Windows 10 Pro; OS build 17763.1217; Version 1809; 64bit' Language: 'es' Physical Memory: 16315 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+D:\unity\2020.3.3f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
+D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58280
-Successfully changed project path to: D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
-D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
+62238
+Successfully changed project path to: D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
+D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 56.54 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 94.17 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero/Assets
+[Subsystems] Discovering subsystems at path D:/unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity/diseño de mecanicas/plataformero/Npg Plataformero/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Renderer: Radeon RX 570 Series (ID=0x67df)
     Vendor:   
-    VRAM:     4043 MB
-    Driver:   27.21.14.6140
+    VRAM:     4041 MB
+    Driver:   26.20.13031.18002
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Mono path[0] = 'D:/unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003070 seconds.
+Register platform support module: D:/unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001427 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 67.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 69.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll on disk for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.197 seconds
+- Completed reload, in  1.512 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000683 seconds.
+Registered in 0.001928 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.933 seconds
+- Completed reload, in  1.081 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1668 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.6 MB.
-System memory in use after: 88.7 MB.
+System memory in use before: 87.8 MB.
+System memory in use after: 87.9 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2122.
-Total: 2.045000 ms (FindLiveObjects: 0.150800 ms CreateObjectMapping: 0.056800 ms MarkObjects: 1.796000 ms  DeleteObjects: 0.040200 ms)
+Total: 2.971000 ms (FindLiveObjects: 0.371700 ms CreateObjectMapping: 0.091300 ms MarkObjects: 2.477400 ms  DeleteObjects: 0.028500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/2DGamekit/Art
-  artifactKey: Guid(a849a12c93bea034a87ff6f9a436b598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art using Guid(a849a12c93bea034a87ff6f9a436b598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '706a9ff55ba2d3e0da0b6665bc7bfb3d') in 0.010299 seconds
-  Import took 0.014418 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 60.030418 seconds.
-  path: Assets/Portales/Green Portal Sprite Sheet.png
-  artifactKey: Guid(d27f046f73792e04394d4c6abb21a0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Green Portal Sprite Sheet.png using Guid(d27f046f73792e04394d4c6abb21a0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d6c8eef227fd37b43595d6744e158e') in 0.197101 seconds
-  Import took 0.200519 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000215 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet.png
-  artifactKey: Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet.png using Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50b3c4c5e4ad6b0223853b511adfa05') in 0.056108 seconds
-  Import took 0.059934 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 110.174187 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/RockChunks.mat
-  artifactKey: Guid(d106e46bf186edf4c8aa853d821fead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/RockChunks.mat using Guid(d106e46bf186edf4c8aa853d821fead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a68831e466ecc47795beb9747a2b1b0') in 0.064567 seconds
-  Import took 0.068287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1271.460517 seconds.
-  path: Assets/Level 3.unity
+  path: Assets/PLATAFORMERO ESCENAS/Level 3.unity
   artifactKey: Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b9185c7872b08ed5c145f299c157f1') in 0.008807 seconds
-  Import took 0.012641 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000823 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.827 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2219.
-Total: 1.760900 ms (FindLiveObjects: 0.173900 ms CreateObjectMapping: 0.052700 ms MarkObjects: 1.520700 ms  DeleteObjects: 0.012500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 420.279599 seconds.
-  path: Assets/Portales/Green Portal Sprite Sheet_8.controller
-  artifactKey: Guid(9b8a11c7f736bee4186bb4732ecb4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Green Portal Sprite Sheet_8.controller using Guid(9b8a11c7f736bee4186bb4732ecb4f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ed356cbe8b5a65c33a1c7256dff106') in 0.032726 seconds
-  Import took 0.036691 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.825705 seconds.
-  path: Assets/Portales/Open green Portal.anim
-  artifactKey: Guid(f8e2afdbddeb11046b38e7b8aecc9a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Open green Portal.anim using Guid(f8e2afdbddeb11046b38e7b8aecc9a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9507ba96c5c8495aaef6864efbc8497') in 0.009229 seconds
-  Import took 0.012363 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001620 seconds.
-  path: Assets/Portales/Open green Portal.anim
-  artifactKey: Guid(f8e2afdbddeb11046b38e7b8aecc9a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Open green Portal.anim using Guid(f8e2afdbddeb11046b38e7b8aecc9a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9507ba96c5c8495aaef6864efbc8497') in 0.002284 seconds
-  Import took 0.005990 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.932480 seconds.
-  path: Assets/Portales/Open Purple Portal.anim
-  artifactKey: Guid(5c70b4ceb099fc04f800dd7b0a31188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Open Purple Portal.anim using Guid(5c70b4ceb099fc04f800dd7b0a31188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabfdca497cc712f4e51a7b6635bb66b') in 0.006814 seconds
-  Import took 0.010875 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Portales/Open Purple Portal.anim
-  artifactKey: Guid(5c70b4ceb099fc04f800dd7b0a31188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Open Purple Portal.anim using Guid(5c70b4ceb099fc04f800dd7b0a31188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabfdca497cc712f4e51a7b6635bb66b') in 0.002188 seconds
-  Import took 0.005402 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 491.475135 seconds.
-  path: Assets/Portales/Stand green Portal.anim
-  artifactKey: Guid(71a1550a81c76e047ab6cbf4654fe5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Stand green Portal.anim using Guid(71a1550a81c76e047ab6cbf4654fe5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1e847b050224c40e42d53c2b73a9ecf') in 0.008940 seconds
-  Import took 0.012539 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001134 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.821 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2222.
-Total: 2.702200 ms (FindLiveObjects: 0.345200 ms CreateObjectMapping: 0.155700 ms MarkObjects: 2.182000 ms  DeleteObjects: 0.017900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 337.361808 seconds.
-  path: Assets/Portales/Green Portal Sprite Sheet_10 1.controller
-  artifactKey: Guid(3e931a9d74a95ae41b39ed906cb91fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Green Portal Sprite Sheet_10 1.controller using Guid(3e931a9d74a95ae41b39ed906cb91fe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc9056885df3d693760007a4689404a') in 0.033522 seconds
-  Import took 0.037921 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000838 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.805 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2225.
-Total: 2.420800 ms (FindLiveObjects: 0.172500 ms CreateObjectMapping: 0.053500 ms MarkObjects: 2.178700 ms  DeleteObjects: 0.014900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 160.631480 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
-  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c4932f2b0191f20561d09250343d8a') in 0.025966 seconds
-  Import took 0.030359 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.112215 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
-  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a7cf2178ae254d38a87b25375fa488') in 0.006536 seconds
-  Import took 0.010352 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 73.074615 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet_8.controller
-  artifactKey: Guid(78b32977eb068f043a093fac26a9c550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet_8.controller using Guid(78b32977eb068f043a093fac26a9c550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3afc7c6cf17728941b38a9d4720c3cff') in 0.008344 seconds
-  Import took 0.011634 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000874 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet_8.controller
-  artifactKey: Guid(78b32977eb068f043a093fac26a9c550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet_8.controller using Guid(78b32977eb068f043a093fac26a9c550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3afc7c6cf17728941b38a9d4720c3cff') in 0.002897 seconds
-  Import took 0.007206 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000821 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.867 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.0 MB.
-System memory in use after: 87.1 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2228.
-Total: 1.971000 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.052800 ms MarkObjects: 1.725700 ms  DeleteObjects: 0.022200 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 259.046217 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_16.png
-  artifactKey: Guid(fbc355887e6dbb94dbc0c54c7ad41094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_16.png using Guid(fbc355887e6dbb94dbc0c54c7ad41094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f42c15b9fc49ae1b3704a4c77a2430') in 0.085904 seconds
-  Import took 0.090286 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_17.png
-  artifactKey: Guid(790a21b13a7e58c469aeca682e28e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_17.png using Guid(790a21b13a7e58c469aeca682e28e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45910af7b8a8afe1d1b21fca3a428baa') in 0.045680 seconds
-  Import took 0.049065 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_16.png
-  artifactKey: Guid(fbc355887e6dbb94dbc0c54c7ad41094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_16.png using Guid(fbc355887e6dbb94dbc0c54c7ad41094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f42c15b9fc49ae1b3704a4c77a2430') in 0.016492 seconds
-  Import took 0.020028 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000145 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_17.png
-  artifactKey: Guid(790a21b13a7e58c469aeca682e28e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_17.png using Guid(790a21b13a7e58c469aeca682e28e0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45910af7b8a8afe1d1b21fca3a428baa') in 0.017390 seconds
-  Import took 0.020437 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.753213 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_18.png
-  artifactKey: Guid(8dbcc37db86b4214384af04f2e670505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_18.png using Guid(8dbcc37db86b4214384af04f2e670505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb7bd7317bc8b647c9ce762a6d48016') in 0.046569 seconds
-  Import took 0.050606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000210 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_19.png
-  artifactKey: Guid(2aff0e9cacbb5d64b90d41bdbfc0cf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_19.png using Guid(2aff0e9cacbb5d64b90d41bdbfc0cf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467ad3c93ba299f34b1d49ca3e7b6cdc') in 0.042186 seconds
-  Import took 0.045826 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_20.png
-  artifactKey: Guid(8f29ec7629da1f54d824690b0931bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_20.png using Guid(8f29ec7629da1f54d824690b0931bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b92ad758893a07bfd0b63c73fde0af') in 0.034487 seconds
-  Import took 0.037566 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_19.png
-  artifactKey: Guid(2aff0e9cacbb5d64b90d41bdbfc0cf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_19.png using Guid(2aff0e9cacbb5d64b90d41bdbfc0cf1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467ad3c93ba299f34b1d49ca3e7b6cdc') in 0.018537 seconds
-  Import took 0.021526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_20.png
-  artifactKey: Guid(8f29ec7629da1f54d824690b0931bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_20.png using Guid(8f29ec7629da1f54d824690b0931bf62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b92ad758893a07bfd0b63c73fde0af') in 0.017490 seconds
-  Import took 0.021029 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.116862 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_21.png
-  artifactKey: Guid(c0f77bc33d77a7345914765275d344c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_21.png using Guid(c0f77bc33d77a7345914765275d344c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c049f7a65fb8e1226087f3179aa300') in 0.037544 seconds
-  Import took 0.041714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_22.png
-  artifactKey: Guid(2fd460e36862e05489afca64b6a01920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_22.png using Guid(2fd460e36862e05489afca64b6a01920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48521e31bc6d5c4f8dcda93fe43728e6') in 0.040607 seconds
-  Import took 0.043665 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_26.png
-  artifactKey: Guid(4d7cf064bdc18d2419c8f0f907c7d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_26.png using Guid(4d7cf064bdc18d2419c8f0f907c7d694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fecefb1f9d811d93b57406c368a21dc') in 0.068493 seconds
-  Import took 0.071372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000169 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_29.png
-  artifactKey: Guid(f2e87bf55d0eb9140a0afed265b8ec44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_29.png using Guid(f2e87bf55d0eb9140a0afed265b8ec44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88c53136df5ed957e6ef2e759c930a5d') in 0.043925 seconds
-  Import took 0.046525 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000151 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_28.png
-  artifactKey: Guid(1a8edbb7b4cd8a84b8ce738f8c867161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_28.png using Guid(1a8edbb7b4cd8a84b8ce738f8c867161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b438a35d2312a7b3a1a5710c7efd2c54') in 0.040022 seconds
-  Import took 0.043105 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_24.png
-  artifactKey: Guid(4f54216920c191f48ad0d98640d9f3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_24.png using Guid(4f54216920c191f48ad0d98640d9f3b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b95e5253159349b2c29488bc3e432ab3') in 0.034095 seconds
-  Import took 0.037913 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_25.png
-  artifactKey: Guid(7108a5fc51845a740841b7a2e461810e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_25.png using Guid(7108a5fc51845a740841b7a2e461810e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed9f36becdb88f76074f72ec990da36') in 0.039731 seconds
-  Import took 0.043155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_23.png
-  artifactKey: Guid(8c8ebcd4f3ad2e14b8e37059e73b5624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_23.png using Guid(8c8ebcd4f3ad2e14b8e37059e73b5624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c717f121a15f730509d865c55c9fa30') in 0.036695 seconds
-  Import took 0.041733 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_27.png
-  artifactKey: Guid(647bddfbf52c1574785a66a5f16caf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 2 -2D Handcrafted Art/Sprite/Moss1/_27.png using Guid(647bddfbf52c1574785a66a5f16caf56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6777b9781b7e82ece98548309930ba03') in 0.032371 seconds
-  Import took 0.047958 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000879 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.795 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2234.
-Total: 2.097600 ms (FindLiveObjects: 0.196100 ms CreateObjectMapping: 0.104400 ms MarkObjects: 1.783000 ms  DeleteObjects: 0.013300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 349.193584 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet.png
-  artifactKey: Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet.png using Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef9ee16c22291ed926b296e4ac06406') in 0.092722 seconds
-  Import took 0.096889 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.613485 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet.png
-  artifactKey: Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet.png using Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec13781b76ee26e96166dc8b94fd8ab') in 0.049907 seconds
-  Import took 0.053040 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 31.977817 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet.png
-  artifactKey: Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet.png using Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '122686599d3a279913672f01d036f247') in 0.049362 seconds
-  Import took 0.052631 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 87.059357 seconds.
-  path: Assets/Portales/Green Portal Sprite Sheet.png
-  artifactKey: Guid(d27f046f73792e04394d4c6abb21a0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Green Portal Sprite Sheet.png using Guid(d27f046f73792e04394d4c6abb21a0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1298aa33b466cdc8cb0f2889c8db6ea') in 0.041271 seconds
-  Import took 0.064454 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 122.490420 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet_8 (1).controller
-  artifactKey: Guid(6823b14c2c3074c4aa32b6a4dc112ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet_8 (1).controller using Guid(6823b14c2c3074c4aa32b6a4dc112ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cd329ed941294cb2f95047981d192ce') in 0.011420 seconds
-  Import took 0.015299 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000900 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.793 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2248.
-Total: 2.274200 ms (FindLiveObjects: 0.225800 ms CreateObjectMapping: 0.106400 ms MarkObjects: 1.926900 ms  DeleteObjects: 0.014000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 276.615686 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet_21.controller
-  artifactKey: Guid(983c98210f0f9e94db22b6b4a7d5d8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet_21.controller using Guid(983c98210f0f9e94db22b6b4a7d5d8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b7eb23e143fb7ed8a61942e4edf5b5') in 0.032721 seconds
-  Import took 0.036565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 105.377666 seconds.
-  path: Assets/Portales/sarasa.anim
-  artifactKey: Guid(aac814259d9bc9a44bbec32a8f7f896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/sarasa.anim using Guid(aac814259d9bc9a44bbec32a8f7f896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7f6fd0a3a92f5c392f4346c7a08bc7') in 0.008434 seconds
-  Import took 0.034982 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000842 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.790 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2251.
-Total: 1.979300 ms (FindLiveObjects: 0.194800 ms CreateObjectMapping: 0.102700 ms MarkObjects: 1.666800 ms  DeleteObjects: 0.013900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 40.220651 seconds.
-  path: Assets/Portales/Purple Portal Sprite Sheet.png
-  artifactKey: Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/Purple Portal Sprite Sheet.png using Guid(d6cdf6ed809516c4d945d3e9531c0c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f031301add135ec96f5f5141843fc5a9') in 0.074616 seconds
-  Import took 0.102435 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000983 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.808 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2257.
-Total: 2.923300 ms (FindLiveObjects: 0.358800 ms CreateObjectMapping: 0.139400 ms MarkObjects: 2.394400 ms  DeleteObjects: 0.028700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000846 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.132 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2260.
-Total: 2.504900 ms (FindLiveObjects: 0.293300 ms CreateObjectMapping: 0.129500 ms MarkObjects: 2.065400 ms  DeleteObjects: 0.014900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000891 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.997 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 2.072200 ms (FindLiveObjects: 0.170200 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.827000 ms  DeleteObjects: 0.014800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 258.146536 seconds.
-  path: Assets/Portales/sarasa.anim
-  artifactKey: Guid(aac814259d9bc9a44bbec32a8f7f896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Portales/sarasa.anim using Guid(aac814259d9bc9a44bbec32a8f7f896a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393fc07bd0d96d5dfacfcedc61808371') in 0.011852 seconds
-  Import took 0.015126 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000750 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.11 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.253 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.1 MB.
-System memory in use after: 87.2 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2266.
-Total: 2.333700 ms (FindLiveObjects: 0.229900 ms CreateObjectMapping: 0.136200 ms MarkObjects: 1.939500 ms  DeleteObjects: 0.027000 ms)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1fcb6b49f4be75e2017cc8e224bf260') in 0.013015 seconds
+  Import took 0.034315 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
