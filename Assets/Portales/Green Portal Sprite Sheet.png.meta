@@ -567,7 +567,7 @@ TextureImporter:
         width: 49
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -617,6 +617,27 @@ TextureImporter:
       bones: []
       spriteID: b4cbe35c7a200fc60800000000000000
       internalID: 7849777070098791499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Portal Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 28
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e22904858864190800000000000000
+      internalID: -7978539777218433475
       vertices: []
       indices: 
       edges: []
