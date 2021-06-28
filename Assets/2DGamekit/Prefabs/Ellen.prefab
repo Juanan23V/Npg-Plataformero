@@ -347,8 +347,8 @@ MonoBehaviour:
     controllerButton: 3
     m_Enabled: 0
   RangedAttack:
-    key: 111
-    controllerButton: 10
+    key: 0
+    controllerButton: 0
     m_Enabled: 0
   Jump:
     key: 32
@@ -406,7 +406,7 @@ MonoBehaviour:
   shotsPerSecond: 2
   bulletSpeed: 30
   holdingGunTimeoutDuration: 1.5
-  rightBulletSpawnPointAnimated: 1
+  rightBulletSpawnPointAnimated: 0
   cameraHorizontalFacingOffset: 2
   cameraHorizontalSpeedOffset: 0.2
   cameraVerticalInputOffset: 2
