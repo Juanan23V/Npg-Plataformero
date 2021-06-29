@@ -1,115 +1,177 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'es' Physical Memory: 16326 MB
+OS: 'Windows 10 Pro; OS build 17763.1217; Version 1809; 64bit' Language: 'es' Physical Memory: 16315 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+D:\unity\2020.3.3f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
+D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58702
-Successfully changed project path to: D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
-D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero
+55210
+Successfully changed project path to: D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
+D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.51 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 112.35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/FACULTAD GAMER/AÑO 1/3 DISEÑO DE MACANICAS/Proyectos de Unity Personales/GitHub Platformer/Npg-Plataformero/Assets
+[Subsystems] Discovering subsystems at path D:/unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity/diseño de mecanicas/plataformero/Npg Plataformero/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Renderer: Radeon RX 570 Series (ID=0x67df)
     Vendor:   
-    VRAM:     4043 MB
-    Driver:   27.21.14.6140
+    VRAM:     4041 MB
+    Driver:   26.20.13031.18002
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
+Mono path[0] = 'D:/unity/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001785 seconds.
+Register platform support module: D:/unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001655 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 89.48 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 112.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll on disk for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.074 seconds
+- Completed reload, in  1.613 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000697 seconds.
+Registered in 0.001795 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.884 seconds
+- Completed reload, in  1.619 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1663 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.5 MB.
-System memory in use after: 88.6 MB.
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2117.
-Total: 3.217600 ms (FindLiveObjects: 0.236600 ms CreateObjectMapping: 0.113600 ms MarkObjects: 2.826600 ms  DeleteObjects: 0.038500 ms)
+Total: 2.873600 ms (FindLiveObjects: 0.236200 ms CreateObjectMapping: 0.052900 ms MarkObjects: 2.529900 ms  DeleteObjects: 0.052400 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/LEVEL 3 MagicCliffsArtwork/tileset.png
-  artifactKey: Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 3 MagicCliffsArtwork/tileset.png using Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c8897993e1bf5363c85ecf3e876af8') in 0.167543 seconds
-  Import took 0.187777 seconds .
+  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
+  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c5b2f367a8a7af1c03d49993d764d9') in 0.039526 seconds
+  Import took 0.046018 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.515088 seconds.
-  path: Assets/LEVEL 3 MagicCliffsArtwork/tileset.png
-  artifactKey: Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 3 MagicCliffsArtwork/tileset.png using Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64d4c935c9cc92d259fae102fc22b25') in 0.089194 seconds
-  Import took 0.092649 seconds .
+  Time since last request: 55.488159 seconds.
+  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
+  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81eb3cc10aac89c8ca798e8c846df10') in 0.007814 seconds
+  Import took 0.011126 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 151.563981 seconds.
-  path: Assets/LEVEL 3 MagicCliffsArtwork/tileset.png
-  artifactKey: Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 3 MagicCliffsArtwork/tileset.png using Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c883ca60e0ebf7c5d90ab26ef657ae6') in 0.052773 seconds
-  Import took 0.056177 seconds .
+  Time since last request: 0.000520 seconds.
+  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
+  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81eb3cc10aac89c8ca798e8c846df10') in 0.002090 seconds
+  Import took 0.005575 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 181.571450 seconds.
-  path: Assets/LEVEL 3 MagicCliffsArtwork/tileset.png
-  artifactKey: Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 3 MagicCliffsArtwork/tileset.png using Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6105358b35b7de967c8bb1377bd7762b') in 0.138145 seconds
-  Import took 0.141958 seconds .
+  Time since last request: 24.524021 seconds.
+  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
+  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774f12b438c6a9fa79a200e5c647b7be') in 0.002096 seconds
+  Import took 0.005353 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 21.300922 seconds.
-  path: Assets/LEVEL 3 MagicCliffsArtwork/tileset.png
-  artifactKey: Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LEVEL 3 MagicCliffsArtwork/tileset.png using Guid(e6b6d08ce81654c3bb8887b055fb015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96b30b4a51232670f71eb559501d659') in 0.061347 seconds
-  Import took 0.064854 seconds .
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001159 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.401 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.0 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2120.
+Total: 2.795800 ms (FindLiveObjects: 0.531600 ms CreateObjectMapping: 0.162900 ms MarkObjects: 2.074600 ms  DeleteObjects: 0.024600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.462 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.1 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2123.
+Total: 2.098700 ms (FindLiveObjects: 0.225200 ms CreateObjectMapping: 0.042200 ms MarkObjects: 1.808400 ms  DeleteObjects: 0.021700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.441 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.1 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2126.
+Total: 3.810700 ms (FindLiveObjects: 0.343800 ms CreateObjectMapping: 0.087500 ms MarkObjects: 3.340800 ms  DeleteObjects: 0.036300 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
