@@ -77,4 +77,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PLATAFORMERO ESCENAS/Level 5.unity
     guid: 5fc7adc354090a14e8a2824dcdd6a81f
+  - enabled: 1
+    path: Assets/PLATAFORMERO ESCENAS/Level 4.1.unity
+    guid: 36e33f48386a00c469106667ac81ac86
   m_configObjects: {}
