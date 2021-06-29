@@ -347,9 +347,9 @@ MonoBehaviour:
     controllerButton: 3
     m_Enabled: 0
   RangedAttack:
-    key: 0
+    key: 111
     controllerButton: 0
-    m_Enabled: 0
+    m_Enabled: 1
   Jump:
     key: 32
     controllerButton: 1
@@ -551,7 +551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   inventoryEvents:
-  - key: Key1
+  - key: Key 1
     OnAdd:
       m_PersistentCalls:
         m_Calls:
@@ -570,7 +570,7 @@ MonoBehaviour:
     OnRemove:
       m_PersistentCalls:
         m_Calls: []
-  - key: Key2
+  - key: Key 2
     OnAdd:
       m_PersistentCalls:
         m_Calls:
@@ -589,7 +589,7 @@ MonoBehaviour:
     OnRemove:
       m_PersistentCalls:
         m_Calls: []
-  - key: Key3
+  - key: Key 3
     OnAdd:
       m_PersistentCalls:
         m_Calls:
@@ -670,6 +670,25 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+  - key: Key 4
+    OnAdd:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 114734347468151670}
+          m_TargetAssemblyTypeName: 
+          m_MethodName: EnableRangedAttacking
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    OnRemove:
+      m_PersistentCalls:
+        m_Calls: []
   dataSettings:
     dataTag: inventory
     persistenceType: 3
