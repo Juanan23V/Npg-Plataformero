@@ -1918,7 +1918,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CONTROLS
+  m_text: CONTROLES
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4c1f115f2c9b80b4cabb22cae230db1c, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: c64de538f27a5b342a025d5db50d19cc, type: 2}
@@ -2164,15 +2164,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\n<b>CREDITS\nUnity Content Team\r</b>\n\r\nProducer: Aurore Dimopoulos
-    \r\nAssociate Producer: Kat Woolley\r\nLead Artist: Peet Lee\r\nLead Programmer:
-    Simon Wittber\r\nGameplay Programmer: James Bouckley\r\nTools and Graphics Engineer:
-    Guillaume Saby\r\nArt Direction: David Llewelyn \r\nAnimator & Artist: Stefano
-    Guglielmana\r\nVFX Artist: Roarke Nelson\r\nQA: Jacek Mackiewicz\r\n\r\n<b>External
-    Developers\r</b>\n\r\nGame Design: L\xE9a Saug\xE9\nEnvironment Concept: Atomhawk\r\nEnvironmental
-    Art: Alien Nude\r\nAnimation: Scott Jonsson  \r\nAudio: Soundcuts\r\nAdditional
-    Audio: Will Moore and Robin Harwood\r\nCharacter Concept Art: Devon Cady-Lee\r\nAnimation:
-    Lindsey Reimer\n\n\n\n\n\n\n"
+  m_text: "\n\n<b>CREDITS\n \nGame Designers: \nAguirre Ezequiel\nHassan Lino\nStein
+    Keila    \nViola Juan Andr\xE9s     \n\nUnity Dev:\nHassan Lino\nViola Juan Andr\xE9s     
+    \n\nArt Directors:\nAguirre Ezequiel\nStein Keila        \n\n                   
+    En memoria de:\n                  Bautista Morasso"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4c1f115f2c9b80b4cabb22cae230db1c, type: 2}
   m_sharedMaterial: {fileID: 21498813622556604, guid: 4c1f115f2c9b80b4cabb22cae230db1c, type: 2}
@@ -9544,6 +9539,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 9100000, guid: 21767a530a236f64ca1dc076dfd353a2, type: 2}
     - target: {fileID: 114045147379926410, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
+      propertyPath: m_text
+      value: INICIO
+      objectReference: {fileID: 0}
+    - target: {fileID: 114045147379926410, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_havePropertiesChanged
       value: 0
       objectReference: {fileID: 0}
@@ -9716,6 +9715,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114845918762914574, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
+      propertyPath: m_text
+      value: SALIR
+      objectReference: {fileID: 0}
+    - target: {fileID: 114845918762914574, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_havePropertiesChanged
       value: 0
       objectReference: {fileID: 0}
@@ -9733,7 +9736,7 @@ PrefabInstance:
       objectReference: {fileID: 21300004, guid: 7f83de9ce1b2e9a4882fa64589108f14, type: 3}
     - target: {fileID: 114998221315142864, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_text
-      value: OPTIONS
+      value: OPCIONES
       objectReference: {fileID: 0}
     - target: {fileID: 114998221315142864, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_fontColor.g
@@ -9745,7 +9748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114998221315142864, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_fontColor32.rgba
-      value: 4294961126
+      value: 4294961383
       objectReference: {fileID: 0}
     - target: {fileID: 114998221315142864, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_havePropertiesChanged
@@ -9763,6 +9766,10 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 2009012889}
+    - target: {fileID: 224066370705387374, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 224066370705387374, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0.7
@@ -9932,6 +9939,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224302940913019492, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224302940913019492, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0.7
       objectReference: {fileID: 0}
@@ -10002,6 +10013,10 @@ PrefabInstance:
     - target: {fileID: 224921697698557682, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7931444507536221014, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 95310049936561488, guid: eb72f36523dcf684f9ca37da45adfa76, type: 3}

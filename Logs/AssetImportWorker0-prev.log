@@ -15,11 +15,11 @@ D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57325
+50113
 Successfully changed project path to: D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 D:/unity/diseño de mecanicas/plataformero/Npg Plataformero
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 134.33 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 65.87 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.3f1 (76626098c1c4)
 [Subsystems] Discovering subsystems at path D:/unity/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,167 +35,80 @@ Initialize mono
 Mono path[0] = 'D:/unity/2020.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/unity/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56412
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/unity/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001004 seconds.
+Registered in 0.001215 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 102.85 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 69.78 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unable to find bridge dll on disk for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.351 seconds
+- Completed reload, in  1.111 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001291 seconds.
+Registered in 0.001708 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.287 seconds
+- Completed reload, in  1.084 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1663 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 88.4 MB.
 System memory in use after: 88.5 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2117.
-Total: 2.150800 ms (FindLiveObjects: 0.234800 ms CreateObjectMapping: 0.050600 ms MarkObjects: 1.837800 ms  DeleteObjects: 0.026200 ms)
+Total: 2.215300 ms (FindLiveObjects: 0.210000 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.939000 ms  DeleteObjects: 0.023500 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
-  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f84e6bb96758350e2bb0e1588ebcac') in 0.019614 seconds
-  Import took 0.023007 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 16.492272 seconds.
   path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
   artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9446ae30419dc6bb0677324979b85fe') in 0.002584 seconds
-  Import took 0.005687 seconds .
+Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bd5429f7a01850133a721db15aed295') in 0.036331 seconds
+  Import took 0.047737 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 8.774512 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 3.unity
-  artifactKey: Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b19001fbb542c654d56567661a8422') in 0.002188 seconds
-  Import took 0.005286 seconds .
+  Time since last request: 107.677055 seconds.
+  path: Assets/2DGamekit/Prefabs/Utilities
+  artifactKey: Guid(0a99fab13ddb0134088b72fb49e58d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Utilities using Guid(0a99fab13ddb0134088b72fb49e58d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '605daef637c94c4eb447c7a707b58f9a') in 0.007739 seconds
+  Import took 0.019355 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000398 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 3.unity
-  artifactKey: Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b19001fbb542c654d56567661a8422') in 0.001947 seconds
-  Import took 0.004948 seconds .
+  Time since last request: 188.401935 seconds.
+  path: Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab
+  artifactKey: Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIPrefabs/DialogueCanvas.prefab using Guid(114c5f41fd4099445a42c1d9bd01f222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a10adad2fbbd43044e6fa3d57d2daa') in 0.145332 seconds
+  Import took 5.571601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 355.197164 seconds.
+  path: Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab
+  artifactKey: Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/Enemies/Spitter.prefab using Guid(6fc2e0a5f8f54a7499632d26ee58a344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4798fb88a74eef829c2841fdcdd07ed4') in 0.186777 seconds
+  Import took 0.190955 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001790 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.289 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.38 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.4 MB.
-System memory in use after: 83.5 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2120.
-Total: 3.341900 ms (FindLiveObjects: 0.232200 ms CreateObjectMapping: 0.044200 ms MarkObjects: 3.032600 ms  DeleteObjects: 0.031600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 221.234364 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 4.1.unity
-  artifactKey: Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 4.1.unity using Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b5179c33335b6d11c5997ea8157e10') in 0.015562 seconds
-  Import took 0.018824 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 36.435065 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Zone5.unity
-  artifactKey: Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Zone5.unity using Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b850cc9d98e76795cddc1845c729ce') in 0.002333 seconds
-  Import took 0.005326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 18.157986 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
-  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510fc717b75a35a8224fee2a2ab492cf') in 0.002161 seconds
-  Import took 0.005227 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 56.607333 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 3.unity
-  artifactKey: Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48514518fe866e969674c0f16e84ab4f') in 0.002356 seconds
-  Import took 0.005697 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.690655 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 4.1.unity
-  artifactKey: Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 4.1.unity using Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5056f579fa64b76b41597186d02c869c') in 0.002579 seconds
-  Import took 0.005685 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.385525 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Zone5.unity
-  artifactKey: Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Zone5.unity using Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7b11fcb34e5151583f5ccd13fe1c70') in 0.002221 seconds
-  Import took 0.005301 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 97.290532 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
-  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f85bfba779c2424221d778503f14ba2') in 0.002370 seconds
-  Import took 0.005486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 744.289235 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
-  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb733f999d21073338010ef3576a91ac') in 0.002475 seconds
-  Import took 0.017763 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001021 seconds.
+Registered in 0.001168 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
@@ -204,127 +117,55 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.298 seconds
+- Completed reload, in  0.932 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.5 MB.
-System memory in use after: 83.6 MB.
+System memory in use before: 88.4 MB.
+System memory in use after: 88.5 MB.
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2123.
-Total: 1.917200 ms (FindLiveObjects: 0.196000 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.660900 ms  DeleteObjects: 0.017500 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2449.
+Total: 2.269600 ms (FindLiveObjects: 0.217000 ms CreateObjectMapping: 0.056400 ms MarkObjects: 1.976400 ms  DeleteObjects: 0.018300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 96.133431 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 3.unity
-  artifactKey: Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 3.unity using Guid(eb51a05a4aced9d44beddd6c21f04d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6e6f8b1367d5cde306625e1d3b4297') in 0.011290 seconds
-  Import took 0.024328 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001784 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.424 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.5 MB.
-System memory in use after: 83.6 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2126.
-Total: 4.522900 ms (FindLiveObjects: 0.341300 ms CreateObjectMapping: 0.104000 ms MarkObjects: 4.039200 ms  DeleteObjects: 0.036200 ms)
+  Time since last request: 636.989080 seconds.
+  path: Assets/PLATAFORMERO ESCENAS/Level 4.1.unity
+  artifactKey: Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PLATAFORMERO ESCENAS/Level 4.1.unity using Guid(36e33f48386a00c469106667ac81ac86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762d9c6a614a1ef1e4a45520d50b92d7') in 0.020836 seconds
+  Import took 0.024525 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 270.053117 seconds.
+  Time since last request: 580.206947 seconds.
+  path: Assets/PERSONAJES Y ENEMIGOS/EVil Wizard
+  artifactKey: Guid(26ed95b2213d30946939176c6c7f3583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PERSONAJES Y ENEMIGOS/EVil Wizard using Guid(26ed95b2213d30946939176c6c7f3583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1d47c170f50bd33705c29e63b659bc') in 0.010139 seconds
+  Import took 0.013828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.039788 seconds.
   path: Assets/PLATAFORMERO ESCENAS/Zone5.unity
   artifactKey: Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Zone5.unity using Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdf2eb38ac1b4edfc2ff310d80b2504f') in 0.013211 seconds
-  Import took 0.026657 seconds .
+Start importing Assets/PLATAFORMERO ESCENAS/Zone5.unity using Guid(960b12f881940d84983273421bebc695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ea846b71569977124bbd3e691e42ff') in 0.007985 seconds
+  Import took 0.011553 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 375.181818 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 2.unity
-  artifactKey: Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 2.unity using Guid(68916d233a7f3e74ea036f972f6ecab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45614c2c636bdae3d48f4cda19c1d0c5') in 0.002264 seconds
-  Import took 0.005558 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002296 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.342 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.42 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.5 MB.
-System memory in use after: 83.6 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2129.
-Total: 3.898400 ms (FindLiveObjects: 0.343200 ms CreateObjectMapping: 0.087800 ms MarkObjects: 3.430700 ms  DeleteObjects: 0.034800 ms)
+  Time since last request: 60.890198 seconds.
+  path: Assets/2DGamekit/Art/NPG.png
+  artifactKey: Guid(0242f8276e9c48744b283b47175f3b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/NPG.png using Guid(0242f8276e9c48744b283b47175f3b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e9a300e64b7bfe3f99351a21c4a353') in 0.085487 seconds
+  Import took 0.091226 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 253.447605 seconds.
-  path: Assets/PLATAFORMERO ESCENAS/Level 1.unity
-  artifactKey: Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PLATAFORMERO ESCENAS/Level 1.unity using Guid(fecc9f4070ce5d34a83853914b37fc0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe247e4b0787658f5d6baf9cb4c1c881') in 0.012668 seconds
-  Import took 0.016023 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001253 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.949 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.27 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 83.5 MB.
-System memory in use after: 83.6 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2132.
-Total: 1.937800 ms (FindLiveObjects: 0.208100 ms CreateObjectMapping: 0.040100 ms MarkObjects: 1.669000 ms  DeleteObjects: 0.019300 ms)
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.01 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 51.7 MB.
-System memory in use after: 51.8 MB.
-
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2132.
-Total: 4.300400 ms (FindLiveObjects: 0.294600 ms CreateObjectMapping: 0.082700 ms MarkObjects: 3.887300 ms  DeleteObjects: 0.033400 ms)
+  Time since last request: 115.120913 seconds.
+  path: Assets/2DGamekit/Art/npgtechnology.png
+  artifactKey: Guid(4a147edfe80413a499fbf24323f5fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/npgtechnology.png using Guid(4a147edfe80413a499fbf24323f5fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3ac1fb39240df86eefe87aaa684a4c') in 0.020818 seconds
+  Import took 0.025849 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
